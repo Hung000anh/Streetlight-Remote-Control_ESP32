@@ -1,4 +1,4 @@
-# Streetlight-Remote-Control-ThingsBoard-ESP32
+# Streetlight-ThingsBoard-Remote-Control-ESP32
 Remotely control a streetlight using ESP32 and ThingsBoard via RPC with real-time ON/OFF switching from a dashboard.
 Here's a sample README structure you can use:
 
